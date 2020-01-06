@@ -1,8 +1,15 @@
 # HW2
 Homework 2, due on 1/8/2020 @ 11:59pm
 
-# Unit 02 HTML, CSS, and Git Homework: Portfolio
-A portfolio is often the first point of contact for employers looking to fill a position or clients in need of a developer to complete a project. A clean and informative portfolio showcases a developer's strongest work and can lead to employment and/or more clients.
+# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+I am using the Bootstrap CSS Framework to recreate your portfolio with the following guidelines:
+
+* Using Bootstrap, recreate your portfolio site with the following items:
+   * A navbar
+   * A responsive layout
+   * Responsive images
+
+* The Bootstrap portfolio should minimize the use of media queries.
 
 ## Table of Contents
 
@@ -16,7 +23,7 @@ This project doesn't require installation.
 
 ## Usage 
 
-This is a deployed portfolio that I can showcase my applications to potential employers and clients. Here you will be able to learn about me, find my contact information, and follow links to my projects and repositories.
+Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
 ## Credits
 
