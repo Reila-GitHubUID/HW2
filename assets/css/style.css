@@ -1,0 +1,117 @@
+header {
+    background: #ffffff;
+    border-color: #cccccc;
+    border-BOTTOM: 1px solid #777777;
+    padding: 0 40px 40px 40px;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding: 10px;
+    margin: 0 300px 0 145px;
+    float: left;
+}
+
+/* This is the top right header that contains "About", "Portfolio", and "Contact" links that would direct users to different pages that has the same h1, headerTopRight, and footer information*/
+a {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    padding: 10px;
+    text-decoration: none;
+}
+
+h2 {
+    color: #4aaaa5;
+    border-bottom: 2px solid #777777;
+    padding: 2% 0 2% 0;
+}
+
+body {    background-image: url("../images/fabric_plaid.png");
+}
+
+.container {
+    background: #ffffff;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin: 0 15% 2% 15%;
+    padding: 0 2% 2% 2%;
+    width: 960px;
+    text-align: left;
+}
+
+/************* 
+These are the CSS codes for profile-img class in index.html 
+***************/
+.profile-img {
+    float: left;
+    margin: 0 15px 0 0;
+    height: 20%;
+    width: 20%;
+}
+/************* END:: These are the CSS codes for profile-img class in index.html ***************/
+
+
+/************* 
+These are the CSS codes for contact.html 
+***************/
+input[type=text] {
+    width: 960px;
+}
+
+textarea {
+    width: 960px;
+    height: 200px;
+}
+
+input[type=submit] {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding: 2px 7px 2px 7px;
+}
+/************* END:: These are the CSS codes for contact.html ***************/
+
+
+/************* 
+These are the CSS codes for portfolio.html 
+***************/
+.column{
+    float: left;
+    width: 350px;
+    padding-right: 20px;
+    margin-bottom: 0;
+}
+
+img {
+    width: 350px;
+    height: 300px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.text-block {
+    position: relative;
+    bottom: 90px;
+    /* right: 20px; */
+    background-color: #4aaaa5;
+    color: white;
+    padding: 3px 20px 3px 20px;
+    width: 310px;
+    text-align: center;
+}
+/************* END:: These are the CSS codes for portfolio.html ***************/
+
+
+/* This is the footer of the page */
+footer {
+    background-color: #666666;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #cccccc;
+    border-top: 4px solid #4aaaa5;
+    text-align: center;
+}
