@@ -54,7 +54,7 @@ body {    background-image: url("../images/fabric_plaid.png");
 
 /************* 
 These are the CSS codes for profile-img class in index.html 
-***************
+***************/
 .profile-img {
     float: left;
     margin: 0 15px 0 0;
