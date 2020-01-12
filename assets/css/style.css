@@ -123,12 +123,13 @@ img {
 
 
 /* This is the footer of the page */
-h9 {
+.footer {
     background-color: #666666;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 8px;
     color: #cccccc;
     border-top: 4px solid #4aaaa5;
     width: 100%;
-    padding: 3%;
+    padding: 2%;
     text-align: center;
 }
