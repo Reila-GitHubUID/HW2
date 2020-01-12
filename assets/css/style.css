@@ -93,12 +93,12 @@ img {
 
 .text-block {
     position: relative;
-    bottom: 50px;
+    bottom: 30px;
     /* right: 20px; */
     background-color: #4aaaa5;
     color: white;
     padding: 3px 0px 1px 0px;
-    width: 75%;
+    width: 95%;
     text-align: center;
 } 
 /************* END:: These are the CSS codes for portfolio.html ***************/
