@@ -70,13 +70,13 @@ These are the CSS codes for profile-img class in index.html
 
 /************* 
 These are the CSS codes for contact.html 
-***************
+***************/
 input[type=text] {
-    width: 960px;
+    width: 100%;
 }
 
 textarea {
-    width: 960px;
+    width: 640px;
     height: 200px;
 }
 
