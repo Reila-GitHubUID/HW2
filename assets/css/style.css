@@ -92,17 +92,15 @@ input[type=submit] {
 
 /************* 
 These are the CSS codes for portfolio.html 
-***************
-.column{
-    float: left;
-    width: 100%;
-    padding-right: 20px;
-    margin-bottom: 0;
-}*/
-
+***************/
 img {
     width: 75%;
     height: 75%;
+}
+
+#noPadding {
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
 .row:after {
@@ -111,14 +109,14 @@ img {
     clear: both;
   }
 
-/*.text-block {
+.text-block {
     position: relative;
-    bottom: 90px;
-    /* right: 20px; *
+    bottom: 50px;
+    /* right: 20px; */
     background-color: #4aaaa5;
     color: white;
-    padding: 3px 20px 3px 20px;
-    width: 310px;
+    padding: 3px 0px 1px 0px;
+    width: 75%;
     text-align: center;
 } 
 /************* END:: These are the CSS codes for portfolio.html ***************/
