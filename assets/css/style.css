@@ -1,13 +1,3 @@
-
-.Mainheader {
-    background: #ffffff;
-    /* background: red; */
-    border-color: #cccccc;
-    border-BOTTOM: 1px solid #777777;
-    /* padding: 0 40px 40px 40px; */
-    padding: 100%;
-}
-
 .row:after {
     content: "";
     display: table;
@@ -17,10 +7,10 @@
 h1 {
     background-color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    width: 500px;
     padding: 2% 5% 2% 5%;
     margin: 0 !important;
     color: white;
-    float: left;
 }
 
 /* This is the top right header that contains "About", "Portfolio", and "Contact" links that would direct users to different pages that has the same h1, headerTopRight, and footer information*/
@@ -92,8 +82,8 @@ input[type=submit] {
 These are the CSS codes for portfolio.html 
 ***************/
 img {
-    width: 75%;
-    height: 125px;
+    width: 95%;
+    height: 175px;
 }
 
 .noPadding {
